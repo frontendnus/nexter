@@ -1,0 +1,14 @@
+{
+  "name": "nexter",
+  "version": "1.0.0",
+  "description": "Nexter udemy class",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "sass sass/main.scss css/main.css -w"
+  },
+  "author": "Yunus",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.42.1"
+  }
+}
