@@ -1,0 +1,6 @@
+@use "variable" as var;
+
+.home {
+  background-color: var.$color-secondary;
+  grid-column: center-start / center-end;
+}
