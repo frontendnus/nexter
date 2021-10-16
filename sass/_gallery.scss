@@ -1,7 +1,6 @@
 @use "variable" as var;
 
 .gallery {
-  background-color: var.$color-grey-light-2;
   grid-column: full-start / full-end;
 
   display: grid;
